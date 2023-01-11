@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "handlebars": "^4.4.0",
-    "qs": "^6.5.0"
+    "qs": "^6.11.0"
   }
 }
